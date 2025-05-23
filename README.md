@@ -1,4 +1,4 @@
-### 🚀 Développeur Full-Stack & Data Enthusiast | Solutions Automatisées  
+### 🚀 Développeur Backend & Solutions Automatisées  
 
 🔭 **Je travaille sur** :  <br/>
 - Un système FinTech (analyse financière automatisée)  <br/>
